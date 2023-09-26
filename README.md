@@ -63,3 +63,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+# Thanks 
+[@Udemy curtesy of Complete Vue Developer 2023: Zero to Mastery (Pinia, Vitest)](https://www.udemy.com/course/complete-vue-js-developer-zero-to-mastery-vuex/)
