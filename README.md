@@ -1,6 +1,6 @@
-# quiz
+# Vue quiz App
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple Quize app built with [Vue.js](https://vuejs.org/) and [vite](https://vitejs.dev/)
 
 ## Recommended IDE Setup
 
@@ -11,6 +11,17 @@ This template should help get you started developing with Vue 3 in Vite.
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
+
+### Clone the project
+```sh
+git clone https://github.com/Emmanuelamanga/vue-quiz-app.git
+```
+### Navigate to the app directory
+
+```sh 
+cd vue-quiz-app
+```
+### Install the required packages
 
 ```sh
 npm install
