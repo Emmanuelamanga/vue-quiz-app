@@ -5,13 +5,22 @@ This is a simple Quize app built with [Vue.js](https://vuejs.org/) and [vite](ht
 ## Operations
 
 <ul>
-    <li>List Questions</li>
+    <li>List Questions</li>    
     <li>List Answers for Respective Questions</li>
     <li>Give Feedback for the Answers given at the end.</li>
     <li>Reset Button to Start Over.</li>
 </ul>
 
 **NB: The app utilizes use of Arrays for Questions and Answers.**
+## Landing page Screen
+![Landing Page Screen](./git_resource/1.png)
+
+## Progress Screen
+![Progress Screen](./git_resource/2.png)
+
+## Results And Reset Button Screen
+![Results And Reset Button Screen](./git_resource/3.png)
+
 
 ## Recommended IDE Setup
 
